@@ -1,0 +1,162 @@
+{"воздух":{
+    "skill":{"Электрический разряд":{
+    "picture":"skill_pictures\/electric_razrad.webp",
+"level_abil" :"1 Аэротеургия",
+"level_char" :"1 уровень",
+"need_od":"2 очка действия",
+"memory":"1 ячейка",
+"re":"3 хода",
+"resist":"магическая броня",
+"distanse":"13м",
+"effects":"шок",
+"duration":"2 хода"
+},"Электрическое касание":{
+    "picture":"skill_pictures\/DOS2_Навык_Электрическое_касание.webp",
+"level_abil" :"1 Аэротеургия",
+"level_char" :"1 уровень",
+"need_od":"2 очка действия",
+"memory":"1 ячейка",
+"re":"3 хода",
+"resist":"магическая броня",
+"distanse":"2м",
+"effects":"шок",
+"duration":"2 хода"
+},"Попутный ветер":{
+    "picture":"skill_pictures\/DOS2_Навык_Попутный_ветер.webp",
+"level_abil" :"1 Аэротеургия",
+"level_char" :"1 уровень",
+"need_od":"1 очко действия",
+"memory":"1 ячейка",
+"re":"6 хода",
+"distanse":"на себя",
+"effects":"аура попутного ветра",
+"duration":"4 хода",
+"range":"10м"
+},"Ослепляющее излучение":{
+    "picture":"skill_pictures\/DOS2_Навык_Ослепляющее_излучение.webp",
+"level_abil" :"1 Аэротеургия",
+"level_char" :"1 уровень",
+"need_od":"2 очка действия",
+"memory":"1 ячейка",
+"re":"4 хода",
+"distanse":"на себя",
+"effects":"ослепление",
+"duration":"1 хода",
+"range":"5м"
+},"Необъяснимое уклонение":{
+    "picture":"skill_pictures\/DOS2_Необъяснимое_уклонение.webp",
+"level_abil" :"2 Аэротеургия",
+"level_char" :"4 уровень",
+"need_od":"1 очко действия",
+"memory":"1 ячейка",
+"re":"4 хода",
+"distanse":"на себя",
+"effects":"уклонение",
+"duration":"1 ход"
+},"Аппорт":{
+    "picture":"skill_pictures\/DOS2_Аппорт.webp",
+"level_abil" :"2 Аэротеургия",
+"level_char" :"9 уровень",
+"need_od":"2 очка действия",
+"memory":"1 ячейка",
+"re":"3 хода",
+"distanse":"15м",
+"range":"8м"
+},"Ошеломляющий разряд":{
+    "picture":"skill_pictures\/DOS2_Навык_Ошеломляющий_разряд.webp",
+"level_abil" :"2 Аэротеургия",
+"level_char" :"4 уровень",
+"need_od":"3 очка действия",
+"memory":"1 ячейка",
+"re":"4 хода",
+"resist":"магическая броня",
+"distanse":"13м",
+"effects":"шок",
+"duration":"1 ход",
+"range":"3м"
+},"Телепортация":{
+    "picture":"skill_pictures\/DOS2_Навык_Телепортация.webp",
+"level_abil" :"2 Аэротеургия",
+"level_char" :"4 уровень",
+"need_od":"2 очка действия",
+"memory":"1 ячейка",
+"re":"4 хода",
+"resist":"физическая броня",
+"distanse":"13м"
+},"Ракировка":{
+    "picture":"skill_pictures\/DOS2_Иконка_Рокировка.webp",
+"level_abil" :"2 Аэротеургия",
+"level_char" :"9 уровень",
+"need_od":"1 очко действия",
+"memory":"1 ячейка",
+"re":"3 хода",
+"resist":"физическая броня",
+"distanse":"13м"
+},"Скачок давления":{
+    "picture":"skill_pictures\/DOS2_Иконка_Скачок_давления.webp",
+"level_abil" :"2 Аэротеургия",
+"level_char" :"9 уровень",
+"need_od":"1 очко действия",
+"memory":"1 ячейка",
+"re":"3 хода",
+"resist":"магическая броня",
+"distanse":"13м",
+"range":"3м"
+},"Торнадо":{
+    "picture":"skill_pictures\/DOS2_Торнадо.webp",
+"level_abil" :"3 Аэротеургия",
+"level_char" :"9 уровень",
+"need_od":"2 очко действия",
+"memory":"1 ячейка",
+"re":"10 ходов",
+"resist":"магическая броня",
+"distanse":"13м"
+},"Сверхпроводник":{
+    "picture":"skill_pictures\/DOS2_Сверхпроводник.webp",
+"level_abil" :"3 Аэротеургия",
+"level_char" :"16 уровень",
+"need_od":"3 очка действия",
+"memory":"1 ячейка",
+"re":"3 хода",
+"resist":"магическая броня",
+"effects":"шок",
+"duration":"1 ход",
+"range":"8м"
+},"цепная молниця":{
+    "picture":"skill_pictures\/DOS2_Навык_Цепная_молния.webp",
+"level_abil" :"3 Аэротеургия",
+"level_char" :"9 уровень",
+"need_od":"3 очка действия",
+"memory":"2 ячейки",
+"re":"5 ходов",
+"resist":"магическая броня",
+"distanse":"13м",
+"effects":"шок",
+"duration":"2 хода",
+"range":"8м",
+"source":"1 ячейка"
+},"Замкнутая цепь":{
+    "picture":"skill_pictures\/DOS2_Навык_Замкнутая_цепь.webp",
+"level_abil" :"3 Аэротеургия",
+"level_char" :"13 уровень",
+"need_od":"3 очка действия",
+"memory":"2 ячейки",
+"re":"4 хода",
+"resist":"магическая броня",
+"effects":"шок,иммунитет к воздуху",
+"duration":"2 хода",
+"range":"8м",
+"source":"2 ячейки"
+},"Буря":{
+    "picture":"skill_pictures\/DOS2_Буря.webp",
+"level_abil" :"5 Аэротеургия",
+"level_char" :"16 уровень",
+"need_od":"4 очка действия",
+"memory":"3 ячейки",
+"re":"5 ходов",
+"resist":"магическая броня",
+"effects":"шок",
+"duration":"1 ход",
+"range":"20м",
+"source":"3 ячейкb"
+}}}}
